@@ -1,0 +1,92 @@
+/*
+
+File Description: Place here your custom CSS styles
+*/
+
+/******* Get rid of template code not yet needed *********/
+.col-sm-6.col-md-3.isotope-item.no-display-now {
+  display: none;
+}
+
+
+/******* Change color of slider logo to red *********/
+.tp-caption.very_large_text.sfr.tp-resizeme.start .fa {
+	color:red;
+}
+
+/******* Get rid of drop down on menu 'home' *********/
+.dropdown>a:before {	
+	display:none;
+}
+
+
+/******* Makes logo inline with header text *********/
+
+.fixed-header-on .header .site-slogan {
+  display: inline;
+}
+
+
+/******* style logo text *********/
+a#logo-text {
+  color: #FFF;
+  font-size: 20px;
+  text-decoration: none;
+  box-sizing: initial;
+}
+
+
+/******* logo on menu bar red *********/
+a#logo-text .fa {
+  color: #F00;
+}
+
+/******* On Small Site... add padding to graphic *********/
+.small-site-pix {
+padding-bottom: 50px;
+}
+
+
+/******* logo on footer bar red, text white *********/
+.logo-footer .fa {
+  color: #F00;
+}
+
+.logo-footer  {
+  color: white;
+}
+
+
+/******* Email send button red *********/
+.btn-default {
+  background-color: #F00;
+
+}
+
+
+/******* Email form background whhite *********/
+footer:not(.light) .footer-content .form-control {
+  background-color: white; 
+}
+
+input, textarea {
+  background: #FFF !important;
+}
+
+.form-control {
+  color: black;
+  position: relative;
+  
+}
+
+input.submit-button.btn.btn-default {
+  background: #F00 !important;
+}
+
+.btn-success, .btn-success:hover, .btn-success:focus, 
+.btn-success.focus, .btn-success:active, .btn-success.active,
+ .open > .dropdown-toggle.btn-success {
+  color: #FD0000;
+  border-color: red;
+}
+
