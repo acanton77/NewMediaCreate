@@ -345,7 +345,7 @@
 			});
 			$(".owl-carousel.content-slider").owlCarousel({
 				singleItem: true,
-				autoPlay: 5000,
+				autoPlay: 20000,
 				navigation: false,
 				navigationText: false,
 				pagination: false
