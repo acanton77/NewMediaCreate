@@ -346,7 +346,7 @@
 			$(".owl-carousel.content-slider").owlCarousel({
 				singleItem: true,
 				autoPlay: 20000,
-				navigation: false,
+				navigation: true,
 				navigationText: false,
 				pagination: false
 			});

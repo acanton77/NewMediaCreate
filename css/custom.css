@@ -90,3 +90,15 @@ input.submit-button.btn.btn-default {
   border-color: red;
 }
 
+.owl-prev, .owl-next {
+background-color: transparent;
+color: #F00;
+}
+
+.owl-controls .owl-buttons div {
+  margin-left: 50%;
+}
+
+.owl-controls {
+  margin-bottom: 20px;
+}
