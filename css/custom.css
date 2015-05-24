@@ -3,6 +3,17 @@
 File Description: Place here your custom CSS styles
 */
 
+.red-h3 {
+color: #BC0111;
+}
+
+.tp-caption.medium_bold_red.sfb.tp-resizeme.test1a.start {
+background-color: white;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+
 /******* Get rid of template code not yet needed *********/
 .col-sm-6.col-md-3.isotope-item.no-display-now {
   display: none;
