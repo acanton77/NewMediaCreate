@@ -19,6 +19,9 @@ padding-right: 10px;
   display: none;
 }
 
+.overlay-container img {
+  max-height: 181px;
+}
 
 /******* Change color of slider logo to red *********/
 .tp-caption.very_large_text.sfr.tp-resizeme.start .fa {
