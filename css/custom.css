@@ -120,3 +120,18 @@ color: #F00;
 .owl-controls {
   margin-bottom: 20px;
 }
+
+/* TAKES OUT GRAY AROUND TEMPLATE BOXES */
+
+/* 
+.image-box {
+  background-color: #FFF;
+  border: none;
+}
+
+.btn-light-gray {
+  color: #333;
+  background-color: #FFF;
+  border-color: #F3F3F3;
+}
+ */
