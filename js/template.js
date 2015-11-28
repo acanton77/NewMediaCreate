@@ -566,7 +566,7 @@
 				submitHandler: function(form) {
 					$.ajax({
 						type: "POST",
-						url: "php/email-sender.php",
+						url: "php/nmc-email-sender-77.php",
 						data: {
 							"name": $("#contact-form #name").val(),
 							"email": $("#contact-form #email").val(),
@@ -646,7 +646,7 @@
 				submitHandler: function(form) {
 					$.ajax({
 						type: "POST",
-						url: "php/email-sender.php",
+						url: "php/nmc-email-sender-77.php",
 						data: {
 							"name": $("#footer-form #name2").val(),
 							"email": $("#footer-form #email2").val(),
@@ -721,7 +721,7 @@
 				submitHandler: function(form) {
 					$.ajax({
 						type: "POST",
-						url: "php/email-sender.php",
+						url: "php/nmc-email-sender-77.php",
 						data: {
 							"name": $("#sidebar-form #name3").val(),
 							"email": $("#sidebar-form #email3").val(),
